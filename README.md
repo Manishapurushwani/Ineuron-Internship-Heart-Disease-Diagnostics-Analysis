@@ -1,7 +1,7 @@
-INeuron-Internship_Heart_Disease_Diagnostic_Analysis
+“INeuron-Internship_Heart_Disease_Diagnostic_Analysis”
 As a part of my internship with iNeuron.ai, I worked independently on an end-to-end project "Heart Disease Diagnostic Analysis".
 
-Objective 🎯
+‵Objective‵ 🎯
 The goal of this project is to analyse the heart disease occurrence, based on a combination of features that describes the heart disease.
 
 Poblem Statement ❓
